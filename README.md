@@ -8,4 +8,5 @@ We were tasked within this assignment to work with the HR deparment in order to 
 * Listed below is one of the examples of the data we produced.  This shows a small portion of the table we created breaking down the PH employees born from 1952 through 1955.  This also shows their current title at PH.
 ![github](retiring_titles.PNG)
 
-*
+* Next we were tasked to create a break down of the number of employees for each PH department.  The data shows that a vast majority of employees who are set to retire are Senior Engineers/Senior Staff totaling nearly 60,000 employees.
+![github](retiring_totals.PNG)
